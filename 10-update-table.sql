@@ -1,0 +1,5 @@
+-- ALTER TABLE employers
+-- ALTER COLUMN yearly_revenue SET DATA TYPE FLOAT(5,2);
+ALTER TABLE users
+ALTER COLUMN full_name
+SET DATA TYPE VARCHAR(300)
